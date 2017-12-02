@@ -1,0 +1,2 @@
+org.springframework.boot.env.EnvironmentPostProcessor=au.com.wargh.env.DynamodbEnvironmentPostProcessor
+org.springframework.context.ApplicationListener=au.com.wargh.env.DynamodbEnvironmentPostProcessor
