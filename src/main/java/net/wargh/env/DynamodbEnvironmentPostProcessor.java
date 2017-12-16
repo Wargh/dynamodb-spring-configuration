@@ -1,4 +1,4 @@
-package au.com.wargh.env;
+package net.wargh.env;
 
 import static com.amazonaws.services.dynamodbv2.model.ComparisonOperator.EQ;
 import static org.springframework.core.env.StandardEnvironment.SYSTEM_ENVIRONMENT_PROPERTY_SOURCE_NAME;

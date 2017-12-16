@@ -6,9 +6,9 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>au.com.wargh</groupId>
+	<groupId>net.wargh</groupId>
 	<artifactId>dynamodb-spring-configuration</artifactId>
-	<version>develop</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 	<name>dynamodb-spring-configuration</name>
 	<description>DynamoDB Configuration for Spring Boot applications</description>
