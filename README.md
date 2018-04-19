@@ -14,7 +14,7 @@ On application startup Spring will automatically load entries from the configura
 
 The properties loaded by dynamodb-spring-configuration will override any specified in application yml or properties files included in the application but will be overridden by system properties.
 
-It is possible to disable dynamodb-spring-configuration by specifying -Ddynamopdb.configuration.enabled=false.
+It is possible to disable dynamodb-spring-configuration by specifying -Ddynamodb.configuration.enabled=false.
 
 ### How does it work ###
 
